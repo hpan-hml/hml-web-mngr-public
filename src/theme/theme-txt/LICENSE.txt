@@ -1,3 +1,5 @@
+The following license applies to the files listed in HTML5Up_files.list 
+=======================================================================
 Creative Commons Attribution 3.0 Unported
 http://creativecommons.org/licenses/by/3.0/
 
