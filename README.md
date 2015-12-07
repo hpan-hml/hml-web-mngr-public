@@ -35,17 +35,17 @@ application of a _responsive_ hypermedia content _theme_ published
 simultaneously by [HTML5 Up][html5up] and [Pixelarity][pixl]. The
 _theme_ media files as published by [HTML5 Up][html5up] are provided
 from [HTML5 Up][html5up] to _theme_ media file users, under terms of a
-_(Creative Commons Attribution 3.0 Unported)[cc3]_ license. The same
+(_Creative Commons Attribution 3.0 Unported+_)[cc3] license. The same
 theme media files may be licensed via [Pixelarity][pixl], for
 applications under stipulations distinct to those provided under the
-_(Creative Commons Attribution 3.0 Unported)[cc3]_ license.
+(_Creative Commons Attribution 3.0 Unported_)[cc3] license.
 
 For purpose of allowing for redistribution of the theme media files
 via a _public_ hosted source code repository, Hardpan Media Library
 here applies an adapted version of the original [HTML5 Up][html5up]
 _TXT_ theme. This project adapts the exact media files developed of
 the theme, as those media files being licensed under terms  of the
-_(Creative Commons Attribution 3.0 Unported)[cc3]_ license. The
+(_Creative Commons Attribution 3.0 Unported_)[cc3] license. The
 _adapted files_ -- together with any number of _added files_, created
 for purpose of managing the content and presentation of the site --
 are contained, as local to the source code repository, under the
