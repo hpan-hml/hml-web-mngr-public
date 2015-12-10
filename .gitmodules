@@ -1,0 +1,4 @@
+[submodule "hpan-hml"]
+	path = site/hpan-hml
+	url = ../hml-web-github-site/
+	branch = master
